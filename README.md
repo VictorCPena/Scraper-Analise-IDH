@@ -1,0 +1,2 @@
+# Scraper-Analise-IDH
+Este projeto consiste em um Web Scraping feito no Python que coleta informações sobre o Índice de Desenvolvimento Humano (IDH) dos municípios brasileiros, disponíveis no website do Programa das Nações Unidas para o Desenvolvimento (PNUD), e um Jupyter Notebook de Análise de Dados que processa e visualiza esses Dados com foco na Região Nordeste do Brasil. As Bibliotecas usadas foram: Requests, Beautiful soup e Pandas para o scraping. Numpy, Matplotlib e Pandas para a Análise dos Dados Obtidos.
